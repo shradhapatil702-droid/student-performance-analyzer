@@ -33,6 +33,7 @@ It explores the relationship between grades and features such as study time, abs
 ---
 
 ## Project Structure
+```
 student-performance-analyzer/
 ├── data/
 │   ├── info about data.txt
@@ -48,7 +49,7 @@ student-performance-analyzer/
 │   └── correlation_heatmap.png
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Exploratory Data Analysis (EDA)
